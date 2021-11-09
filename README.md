@@ -10,7 +10,7 @@ Install python3.6 Install Visual studio for coding Git clone:https://github.com/
 ## About
 Pitchperfect is a python based web app that allows users to submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them. The pitches are organized by category. A user can have different categories like pickup lines, interview pitch , product pitch, promotion pitch. pitchhere.herokuapp.com/ Topics python flask flask-sqlalchemy Resources Readme Releases No releases published Packages No packages published.
 ## User Stories
-A user can see the pitches posted by other people A user can eithr downvote or upvote on a pitch as long as they are signed in. A user can add comment on the different pitches . A user can view and submit pitches by category.
+A user can see the pitches posted by other people A user can either downvote or upvote on a pitch as long as they are signed in. A user can add comment on the different pitches . A user can view and submit pitches by category.
 
 ## Known Bugs
 There are no known bugs.
