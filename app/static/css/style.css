@@ -1,9 +1,9 @@
-body {
-    background-color: rgba(37, 8, 75, 0.726);
+/* body {
+    background-color: rgba(182, 179, 185, 0.726);
     font-family: 'Lato', sans-serif !important;
     overflow-x: hidden;
     font-size: 20px;
-}
+} */
 
 nav,
 .card {
@@ -19,7 +19,7 @@ nav,
 }
 
 .nav-link {
-    color: rgb(147, 42, 165);
+    color: rgb(123, 118, 124);
 }
 
 .card-text {
